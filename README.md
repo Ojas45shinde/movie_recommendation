@@ -1,0 +1,1 @@
+This my movie recommendation system which i have created using Python, API integration, NLP,content based filtering algorithms and created similarity scores and interactive Streamlit web app for real_time recommendations.
